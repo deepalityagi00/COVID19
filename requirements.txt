@@ -6,7 +6,7 @@ Django==3.0
 ipython==7.10.2
 ipython-genutils==0.2.0
 jedi==0.15.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 parso==0.5.2
 pickleshare==0.7.5
